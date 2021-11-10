@@ -1,5 +1,6 @@
 # bowling-game
 This command line application can be run in 2 ways
+
 	1. using existing jar file in target folder	(jdk 1.8 need to be installed)
 		navigate to target folder and run command 
 		`java -jar bowling-game-0.0.1.jar`
