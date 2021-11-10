@@ -7,5 +7,5 @@ This command line application can be run in 2 ways
 	
 	2. using docker file (docker is assumed to be installed)
 		navigate to root folder and run command 
-			`docker build -t bowling-game .` to build docker image
-			`docker run -i -t bowling-game`  to run in interactive mode
+		`docker build -t bowling-game .` to build docker image
+		`docker run -i -t bowling-game`  to run in interactive mode
