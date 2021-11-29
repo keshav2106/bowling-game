@@ -1,3 +1,7 @@
+// Please be aware, this is a sample code to solve the basic problem fastly in an agile development
+// We may want to use OOPs concepts and make the code in multiple classes as per requirement in future. (Here intentionally, we have only one Main class to finish the job)
+// Important is the packaging and deployment, there can be a bug as it is not tested by testing team but everything can be fixed
+
 package bowling;
 
 import java.io.BufferedReader;
